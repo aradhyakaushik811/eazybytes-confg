@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related PROD APIs "
   contactDetails:
     name: "Aradhya PROD - Developer"
-    email: "aradhya@eazybank.com"
+    email: "{cipher}b71cdcc629b276745fb904a2052421a4cdb50cc65ee6d7cf2b0c3e4d97605e981c533cefdb616af94b14c41cd9d2b486"
   onCallSupport:
     - (555) 555-12345
     - (555) 523-12345
