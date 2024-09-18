@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related PROD APIs "
+  message: "Welcome to EazyBank accounts related silly APIs "
   contactDetails:
     name: "Aradhya PROD - Developer"
     email: "{cipher}b71cdcc629b276745fb904a2052421a4cdb50cc65ee6d7cf2b0c3e4d97605e981c533cefdb616af94b14c41cd9d2b486"
